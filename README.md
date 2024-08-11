@@ -1,6 +1,6 @@
 # CartChart-Dialogflow
 
-Cart Chart is a voice user interface (VUI) chatbot that I created in my Voice Assistants class. \
+Cart Chart is a voice user interface (VUI) chatbot that I created in my CS Voice Assistants class. \
 It was created using Google's Dialogflow ES, Node.js, and the Google Cloud Console.
 
 The basic functionality of Cart Chart is to assist users in finding food carts around 
