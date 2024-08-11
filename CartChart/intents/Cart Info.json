@@ -1,0 +1,77 @@
+{
+  "id": "4085d791-b691-49a6-ac8d-c27cb6305254",
+  "name": "Cart Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "cartContext",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "429d99f0-9c07-472c-ac79-55c65b9da90a",
+          "name": "cartName",
+          "required": false,
+          "dataType": "@cartname",
+          "value": "$cartName",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Do you know the name of the cart you\u0027re looking for?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s the name?"
+            },
+            {
+              "lang": "en",
+              "value": "What\u0027s the cart name?"
+            },
+            {
+              "lang": "en",
+              "value": "Which cart were you trying to find?"
+            },
+            {
+              "lang": "en",
+              "value": "Which cart were you trying to find?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "getInfo"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

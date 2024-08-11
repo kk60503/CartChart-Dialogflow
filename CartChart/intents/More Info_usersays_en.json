@@ -1,0 +1,85 @@
+[
+  {
+    "id": "266ca752-db5d-42fd-a8dc-ab2676a28e32",
+    "data": [
+      {
+        "text": "more info ",
+        "userDefined": false
+      },
+      {
+        "text": "Smaaken",
+        "meta": "@cartname",
+        "alias": "cartname",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a65c41b-bbe5-4c31-a7b4-02f4781e038d",
+    "data": [
+      {
+        "text": "cartname",
+        "meta": "@cartname",
+        "alias": "cartname",
+        "userDefined": true
+      },
+      {
+        "text": " more info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f28ba284-e7ea-4009-8adf-314da6929020",
+    "data": [
+      {
+        "text": "more info for ",
+        "userDefined": false
+      },
+      {
+        "text": "cartname",
+        "meta": "@cartname",
+        "alias": "cartname",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "744839b7-4bc3-4c68-9525-43d81e3d89ed",
+    "data": [
+      {
+        "text": "more details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "687d1109-e9fe-49a9-b1d2-6c6986a81e82",
+    "data": [
+      {
+        "text": "more info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

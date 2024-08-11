@@ -1,0 +1,94 @@
+{
+  "id": "2017b47e-97a2-4a14-acf9-375a0179e34a",
+  "name": "Find by Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "999dc297-457f-48db-b1a2-ee0e116ecd6f",
+          "name": "pdxneighborhoods",
+          "required": true,
+          "dataType": "@PDXneighborhoods",
+          "value": "$pdxneighborhoods",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "which neighborhood?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "47585344-1425-4fee-a035-4ccee07f187e",
+          "name": "cuisine",
+          "required": false,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "12fd43ec-710c-4662-a335-66c273c5f350",
+          "name": "dish",
+          "required": false,
+          "dataType": "@dish",
+          "value": "$dish",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a81a554-7c82-460c-bc54-f1dab6949251",
+          "name": "unit-length",
+          "required": false,
+          "dataType": "@sys.unit-length",
+          "value": "$unit-length",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

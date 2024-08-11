@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e9cefd88-373f-490f-890f-f8d379f4c610",
+    "data": [
+      {
+        "text": "cart hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56940dbd-9cc6-4449-8641-d5651092307a",
+    "data": [
+      {
+        "text": "get hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1e64df6-1849-4529-b4bc-347afd0fe86d",
+    "data": [
+      {
+        "text": "hours",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

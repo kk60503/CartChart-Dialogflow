@@ -1,0 +1,9 @@
+{
+  "id": "125dad3f-a106-4d69-98c3-6e328e3ddd94",
+  "name": "cartname",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

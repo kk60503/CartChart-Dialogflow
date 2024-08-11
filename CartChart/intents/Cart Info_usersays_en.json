@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f2b7d1e8-4b79-4d65-bfb0-2cd5f8fb69c2",
+    "data": [
+      {
+        "text": "cartname",
+        "meta": "@cartname",
+        "alias": "cartName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

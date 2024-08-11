@@ -1,0 +1,128 @@
+[
+  {
+    "value": "southeast",
+    "synonyms": [
+      "Arleta",
+      "Brentwood",
+      "southeast",
+      "Woodstock",
+      "Darlington",
+      "Mt. Scott",
+      "Lents",
+      "Foster",
+      "Powell"
+    ]
+  },
+  {
+    "value": "downtown",
+    "synonyms": [
+      "Pearl",
+      "Burnside",
+      "downtown",
+      "Goose Hollow",
+      "Old Town",
+      "northwest",
+      "Portland State"
+    ]
+  },
+  {
+    "value": "southwest",
+    "synonyms": [
+      "southwest",
+      "hillsdale",
+      "west hills",
+      "burlingame",
+      "multnomah"
+    ]
+  },
+  {
+    "value": "Sellwood",
+    "synonyms": [
+      "Sellwood",
+      "moreland",
+      "reed",
+      "brooklyn"
+    ]
+  },
+  {
+    "value": "Buckman",
+    "synonyms": [
+      "Buckman",
+      "Hosford",
+      "Abernethy",
+      "Sunnyside",
+      "Richmod",
+      "Kerns",
+      "Laurelhurst",
+      "Lloyd"
+    ]
+  },
+  {
+    "value": "Mt. Tabor",
+    "synonyms": [
+      "Mt. Tabor",
+      "South Tabor",
+      "Tabor",
+      "Montavilla",
+      "North Tabor",
+      "division",
+      "Mt Tabor"
+    ]
+  },
+  {
+    "value": "northeast",
+    "synonyms": [
+      "northeast",
+      "Cully",
+      "Pasrkrose",
+      "Sumner",
+      "Roseway",
+      "Rose City Park",
+      "Hollywood",
+      "Grant",
+      "Irvington",
+      "Beaumont",
+      "Wilshire",
+      "Alberta",
+      "hollywood"
+    ]
+  },
+  {
+    "value": "north",
+    "synonyms": [
+      "north",
+      "Eliot",
+      "Boise",
+      "Overlook",
+      "Humboldt",
+      "Piedmont",
+      "Kenton",
+      "Portsmouth",
+      "Arbor Lodge",
+      "Mississppi",
+      "University of Portland"
+    ]
+  },
+  {
+    "value": "Johnson Creek",
+    "synonyms": [
+      "Johnson Creek",
+      "Clackamas"
+    ]
+  },
+  {
+    "value": "St. Johns",
+    "synonyms": [
+      "St. Johns",
+      "St. John\u0027s",
+      "St Johns",
+      "St John\u0027s"
+    ]
+  },
+  {
+    "value": "Hawthorne",
+    "synonyms": [
+      "Hawthorne"
+    ]
+  }
+]

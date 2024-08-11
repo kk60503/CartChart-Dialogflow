@@ -1,0 +1,51 @@
+{
+  "description": "Food cart directory for Portland, Oregon",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "CartChart",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "7cdb78f0-e81d-47d9-b4ca-38bee3c3a9a8"
+    ],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Los_Angeles",
+  "webhook": {
+    "url": "https://us-central1-testcart-qbck.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "username": "",
+    "headers": {},
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "4e534472b06143bc9b89e16dd23bae68",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": true
+}

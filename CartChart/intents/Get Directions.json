@@ -1,0 +1,49 @@
+{
+  "id": "06884c53-3402-42d2-a1e8-98133aa12f9a",
+  "name": "Get Directions",
+  "auto": true,
+  "contexts": [
+    "cartContext"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7b2b498-af45-479d-a00a-f0c7e63f33ef",
+          "name": "cartpod",
+          "required": true,
+          "dataType": "@cartpod",
+          "value": "$cartpod",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "82de8aa4-22d8-41c1-8dc5-2ad0511019af",
+  "name": "Random Cart",
+  "auto": true,
+  "contexts": [],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

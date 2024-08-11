@@ -1,0 +1,43 @@
+{
+  "id": "d866f8fc-7dd7-4f55-abdb-927e2afcf715",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to Cart Chart. Let\u0027s find a food cart!",
+            "Hello! I can help you to find some delicious eats. What are you looking for?",
+            "Good day! What kind of food cart can I help you find?",
+            "Greetings! What are you hungry for today?",
+            "Hi! I can help you to find a food cart. What are you looking for?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

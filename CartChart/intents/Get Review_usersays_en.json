@@ -1,0 +1,41 @@
+[
+  {
+    "id": "e2aaf868-b451-47d1-8533-6e2be106abd5",
+    "data": [
+      {
+        "text": "get review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "862aec19-db87-4f90-8a85-05d2fdb00fa9",
+    "data": [
+      {
+        "text": "cart review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "974381cf-ad0b-4363-85e5-1201479731ac",
+    "data": [
+      {
+        "text": "review",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

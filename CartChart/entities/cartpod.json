@@ -1,0 +1,9 @@
+{
+  "id": "4e2f68f1-df6e-46d6-ad05-2041e06c5b58",
+  "name": "cartpod",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

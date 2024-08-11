@@ -1,0 +1,444 @@
+[
+  {
+    "id": "31350db5-9d9c-4213-a51c-2801d8d4b06f",
+    "data": [
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "346008ea-94b1-428f-842a-155669f8379d",
+    "data": [
+      {
+        "text": "tacos",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fb10dfc-4aac-4846-89b7-771b22bf1d81",
+    "data": [
+      {
+        "text": "boba tea",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a73b102-c604-4440-8ef0-31e929e9fc77",
+    "data": [
+      {
+        "text": "Find a ",
+        "userDefined": false
+      },
+      {
+        "text": "taco",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      },
+      {
+        "text": " cart in my area",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7135aa4-1c43-4908-a941-fc594490e5bb",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "taco",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      },
+      {
+        "text": " cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "831060d3-b82d-4d49-8160-6578602e101f",
+    "data": [
+      {
+        "text": "look up ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5cf1c318-990c-4836-9a58-eaa4547ecddd",
+    "data": [
+      {
+        "text": "look up ",
+        "userDefined": false
+      },
+      {
+        "text": "burgers",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b8eb1bd-4e38-4af9-9fab-e37ee2149bcd",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67c7070a-f5ba-4f86-8378-af131370b416",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Italian",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c26e4a78-3feb-4819-be8d-c2bda1d4a38f",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "sushi",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5f79c02-75dc-428b-8aed-c76084ac072c",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "userDefined": true
+      },
+      {
+        "text": " cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5227d3d6-5cae-436b-849e-2e1923a497df",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dc6a111-a1c9-42f8-8870-de140fd15b00",
+    "data": [
+      {
+        "text": "look up ",
+        "userDefined": false
+      },
+      {
+        "text": "ice cream",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "847644f5-2225-4400-a831-6c0a03cbc027",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " carts open now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "98adc94b-205d-44cc-9460-d009cdaf1b51",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "Korean",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      },
+      {
+        "text": " cart open near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e309b4b5-2102-436c-b94f-c8a5cfda8f62",
+    "data": [
+      {
+        "text": "are there any ",
+        "userDefined": false
+      },
+      {
+        "text": "sandwich",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      },
+      {
+        "text": " carts nearby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a938a2f2-8311-440b-94e0-fb9c013327a7",
+    "data": [
+      {
+        "text": "look for ",
+        "userDefined": false
+      },
+      {
+        "text": "bbq",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      },
+      {
+        "text": " carts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d771ec9-795d-4501-98a3-632b1188b701",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "dish",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8da5fdd5-fcdb-4623-8add-aef32472dff4",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "tacos",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5947869d-71e1-41ad-9d12-bcf000da5df5",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35493f18-b46f-4562-a70e-bceb0bec69b1",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "breakfast",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      },
+      {
+        "text": " cart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3d34197-c2ca-4ee1-af2f-622c2a9a171c",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "brunch",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

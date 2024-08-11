@@ -1,0 +1,61 @@
+{
+  "id": "fcc91cc3-a4c7-4816-b372-baf2922082bd",
+  "name": "Find By Cuisine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3ad20a5-c397-4138-821a-dc133a7371dd",
+          "name": "dish",
+          "required": false,
+          "dataType": "@dish",
+          "value": "$dish",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "04e2ae92-eec2-40fd-b114-0ce629288c90",
+          "name": "cuisine",
+          "required": false,
+          "dataType": "@cuisine",
+          "value": "$cuisine",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

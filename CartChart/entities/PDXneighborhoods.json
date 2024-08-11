@@ -1,0 +1,9 @@
+{
+  "id": "f941c9e7-f7ec-4183-8cf4-25f2ff5becbf",
+  "name": "PDXneighborhoods",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,419 @@
+[
+  {
+    "id": "5175cf16-0a78-40e6-950a-1980afb9414b",
+    "data": [
+      {
+        "text": "Hawthorne",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24a2035b-707f-4347-9d90-ec8ad21d200f",
+    "data": [
+      {
+        "text": "find a cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "northeast",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02099279-fced-43d5-a82a-e1d55cf5d085",
+    "data": [
+      {
+        "text": "find a cart in the ",
+        "userDefined": false
+      },
+      {
+        "text": "woodstock",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " neighborhood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d74c8df0-d6d3-45f9-a5a4-76ad45dc32bf",
+    "data": [
+      {
+        "text": "find a cart ",
+        "userDefined": false
+      },
+      {
+        "text": "downtown",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10c9cd6b-77fc-4c11-9249-5794f791211f",
+    "data": [
+      {
+        "text": "find a cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "southeast",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d69632d-76fa-4fe0-9566-8e5b21fa1f9b",
+    "data": [
+      {
+        "text": "food in the ",
+        "userDefined": false
+      },
+      {
+        "text": "pearl",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " district",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8aeadc54-3051-4001-911f-c690a9814b2d",
+    "data": [
+      {
+        "text": "I want a cart in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Cully",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " neighborhood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0c21230-8140-469f-b3c5-7b4c9c156250",
+    "data": [
+      {
+        "text": "find a cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "overlook",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " park",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6dd81ff4-ea26-4659-8f77-0de2f235db73",
+    "data": [
+      {
+        "text": "find carts near the ",
+        "userDefined": false
+      },
+      {
+        "text": "Montavilla",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " neighborhood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f417aac-6cf7-44fe-835c-e175b460c023",
+    "data": [
+      {
+        "text": "find something on the ",
+        "userDefined": false
+      },
+      {
+        "text": "eastside",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2e12881-01de-46eb-9a5b-347b80fd908e",
+    "data": [
+      {
+        "text": "carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "southeast",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6858134c-586d-475a-afe6-8ed00d5ab910",
+    "data": [
+      {
+        "text": "find in ",
+        "userDefined": false
+      },
+      {
+        "text": "Woodstock",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "24fa95b2-fcf6-4fe8-a5f3-dc2dee294c15",
+    "data": [
+      {
+        "text": "find a cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "Woodstock",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6945b3b6-73a6-4456-ba5d-bcdfa396f563",
+    "data": [
+      {
+        "text": "I need a cart by ",
+        "userDefined": false
+      },
+      {
+        "text": "Sellwood",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a31bb326-26ba-4c10-b244-39a1b2c9bf62",
+    "data": [
+      {
+        "text": "Look for carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "St. John\u0027s",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8cf7e078-b36c-4dd4-8a81-d835998f534c",
+    "data": [
+      {
+        "text": "look up carts within ",
+        "userDefined": false
+      },
+      {
+        "text": "3 miles",
+        "meta": "@sys.unit-length",
+        "alias": "unit-length",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "Mt. Tabor",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e93a9d2-2dc9-4b5a-9ed2-46e3b3a7bc86",
+    "data": [
+      {
+        "text": "find a ",
+        "userDefined": false
+      },
+      {
+        "text": "taco",
+        "meta": "@dish",
+        "alias": "dish",
+        "userDefined": true
+      },
+      {
+        "text": " cart in ",
+        "userDefined": false
+      },
+      {
+        "text": "northeast",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d465b5e3-f05a-4141-9d62-f77fd39d4b10",
+    "data": [
+      {
+        "text": "find ",
+        "userDefined": false
+      },
+      {
+        "text": "Mexican",
+        "meta": "@cuisine",
+        "alias": "cuisine",
+        "userDefined": true
+      },
+      {
+        "text": " food ",
+        "userDefined": false
+      },
+      {
+        "text": "downtown",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "89547c03-3b13-446e-a7db-cc9a3f605ad2",
+    "data": [
+      {
+        "text": "carts in ",
+        "userDefined": false
+      },
+      {
+        "text": "Woodstock",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "downtown",
+        "meta": "@PDXneighborhoods",
+        "alias": "pdxneighborhoods",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
